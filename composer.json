@@ -1,0 +1,17 @@
+{
+    "name": "personal/himuon-image-metadata-ai",
+    "autoload": {
+        "psr-4": {
+            "Himuon\\Image\\MetaData\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reagan Mahinay",
+            "email": "reaganmahinay.web@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "php-stubs/wordpress-stubs": "^6.9"
+    }
+}
