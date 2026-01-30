@@ -3,7 +3,7 @@
 use Himuon\Image\MetaData\Init;
 /**
  * Plugin Name:       Himuon Image Metadata AI
- * Description:       A robust add-on that seamlessly connects Gravity Forms with Klaviyo, allowing form submissions to be converted into Klaviyo profiles and automatically subscribed to specific Klaviyo lists.
+ * Description:       Generate SEO-friendly image metadata in WordPress using OpenAI and apply it directly to media attachments.
  * Version:           1.0.0
  * Author:            Reagan Mahinay
  * Author URI:        https://reagandev.com
