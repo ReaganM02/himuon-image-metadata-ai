@@ -56,7 +56,7 @@ final class Media
                         ],
                         [
                             'type' => 'input_image',
-                            'image_url' => 'http://reagandev.com/wp-content/uploads/2025/11/wedding.png',
+                            'image_url' => $imageURL,
                         ],
                     ],
                 ],
