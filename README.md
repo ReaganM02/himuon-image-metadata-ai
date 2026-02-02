@@ -1,6 +1,11 @@
 # Himuon Image Metadata AI
 
+![Himuon Image Metadata AI](https://forgeplus.reagandev.com/wp-content/uploads/2026/02/metadata-ai-generator-new.jpg)
+
 Generate SEO-friendly image metadata in WordPress using OpenAI and apply it directly to media attachments.
+
+## Demo
+- [Video walkthrough](https://www.youtube.com/watch?v=Sxx3wT3a9aQ)
 
 ## Features
 - Adds a Settings page to store and validate your OpenAI API key.
